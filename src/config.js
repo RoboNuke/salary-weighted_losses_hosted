@@ -15,7 +15,7 @@ const CONFIG = {
   heroTitle: "What if losses were weighted",
   heroTitleAccent: "by who actually played?",
   heroDescription:
-    "Each loss is multiplied by the percentage of the salary cap that was active. Bench your stars and lose? That loss counts less — making it harder to tank.",
+    "Each loss is multiplied by the percentage of the salary cap that was active. Bench your stars and lose? That loss counts less. Making teams play their guys will make the lottery fair.",
 
   // ── Scatter Plot ──
   scatterTitle: "The Tank Detector",
