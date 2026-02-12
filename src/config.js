@@ -5,7 +5,7 @@ const CONFIG = {
   // ── Available Seasons ──
   // List every season JSON filename (without .json) you've placed in public/data/
   // Most recent first. The first entry is the default.
-  seasons: ["2023-24", "2024-25"],
+  seasons: ["2023-24", "2024-25", "2025-26"],
 
   // ── Site Identity ──
   siteName: "Salary-Weighted Losses",
